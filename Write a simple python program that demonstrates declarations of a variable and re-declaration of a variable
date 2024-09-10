@@ -1,0 +1,7 @@
+# Declare a variable
+x = 234
+print("Initial value of x:", x)
+
+# Re-declare the variable
+x = 456
+print("Re-declared value of x:", x)
